@@ -1,0 +1,12 @@
+insert into clientes(nombre, apellido, email, create_at) values('Jose', 'Blazquez', 'jose.ansrgsrgtonio.blazquez.cabra@gmail.com', '2020-03-16');
+insert into clientes(nombre, apellido, email, create_at) values('Juan', 'Heladio', 'juassgrn@gmail.com', '2020-03-16');
+insert into clientes(nombre, apellido, email, create_at) values('Julio', 'Pio', 'jgggsulio@gmail.com', '2020-03-16');
+insert into clientes(nombre, apellido, email, create_at) values('Carlos', 'Carre', 'carlggos@gmail.com', '2020-03-16');
+insert into clientes(nombre, apellido, email, create_at) values('ghghg', 'Blazquez', 'josegg.antonio.blazquez.cabra@gmail.com', '2020-03-16');
+insert into clientes(nombre, apellido, email, create_at) values('gjh', 'Heladio', 'juarrrn@gmail.com', '2020-03-16');
+insert into clientes(nombre, apellido, email, create_at) values('Jose', 'Blazquez', 'jogrsgse.antonio.blazquez.cabra@gmail.com', '2020-03-16');
+insert into clientes(nombre, apellido, email, create_at) values('Juan', 'Heladio', 'jugsran@gmail.com', '2020-03-16');
+insert into clientes(nombre, apellido, email, create_at) values('Julio', 'Pio', 'juligsro@gmail.com', '2020-03-16');
+insert into clientes(nombre, apellido, email, create_at) values('Carlos', 'Carre', 'cargrslos@gmail.com', '2020-03-16');
+insert into clientes(nombre, apellido, email, create_at) values('ghghg', 'Blazquez', 'jose.antonio.blazquez.cabra@gmail.com', '2020-03-16');
+insert into clientes(nombre, apellido, email, create_at) values('gjh', 'Heladio', 'juagsrn@gmail.com', '2020-03-16');
